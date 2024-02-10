@@ -38,6 +38,30 @@ Learn how to calculate some tensor aggregations like
 Find the indices of the minimum and maximum values in a tensor.
 
 
+# Day-3
+
+# Overview
+This project demonstrates fundamental operations with PyTorch tensors, covering a variety of tasks such as data type conversion, reshaping, stacking, squeezing, unsqueezing, permuting, and indexing. The code also explores interactions between PyTorch tensors and NumPy arrays, showcasing essential concepts for handling and manipulating tensor data.
+
+Explore the following key functionalities:
+
+# Changing Data Types:
+Convert tensor data types.
+# Reshaping Tensors:
+Modify tensor shapes without altering values.
+# Stacking and Concatenating:
+Combine multiple tensors.
+# Viewing and Squeezing: 
+Adjust tensor views and remove dimensions with value 1.
+# Unsqueezing and Permuting: 
+Add dimensions and rearrange them.
+# Indexing:
+Access and extract specific values from tensors.
+# PyTorch Tensors & NumPy:
+Understand the interplay between PyTorch tensors and NumPy arrays.
+# Reproducibility:
+Achieve consistency in generating random tensors.
+
 
 # Contributing
 Contributions are welcome! Feel free to add more examples or improve existing ones. To contribute, open a pull request with your changes.
